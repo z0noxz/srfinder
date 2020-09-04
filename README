@@ -1,0 +1,4 @@
+srfinder
+========
+srfinder is a quick tool for measuring distance over time using a raspberry pi 
+and either a HY-SRF05 or a HC-SR04.
